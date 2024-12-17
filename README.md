@@ -52,6 +52,11 @@ Total Price BEFORE Adding Taxes: 230.00 EGP
 Total Price AFTER Adding Taxes: 253.00 EGP
 ```
 
+## Code Output Screenshot
+
+![output-screenshot](https://github.com/user-attachments/assets/1a0ef8bf-e89e-4c0b-b393-fd9f10a40da1)
+
+
 ## How to Run
 
 1. Copy the code into a Dart file.
